@@ -25,6 +25,15 @@ RECUERDA SINCRONIZAR LA LISTA CADA VEZ QUE ACCEDAS",
 "info": "PULSA AQUÍ",
 "url": "Group_Xuperlists",
 "embed": "true"
+},
+{
+"name": "GROUP XUPERLIST XPORTS",
+"text-align": "center;",
+"image": "https://i.postimg.cc/BndMLrG9/IMG-20241111-191943-016-removebg-preview.png",
+"info": "ENTRA",
+"url": "https://group-xuperlist-xports.netlify.app/00.XPORTS.w3u",
+"import": false,
+"embed": "true"
 }
 ]
 }
