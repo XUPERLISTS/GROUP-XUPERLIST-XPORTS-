@@ -6,7 +6,43 @@
 "telegram": "Group_Xuperlists",
 "info":"",
 "groups":
-[ 
+[
+{
+"name": "¡¡ImPoRtAnTE!!
+ReCuErDa SiNcRoNiZaR EsTa PaNtALlA CaDa VeZ QuE AcCeDaS",
+"text-align": "center;",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Crystal_128_reload.svg/1200px-Crystal_128_reload.svg.png",
+"embed": "true"
+},
+{
+"name": "<<EsTo Es GrAtIs Y SiN AnImO De LuCrO >>",
+"text-align": "center;",
+"info": "¡Que no te cobren!",
+"image": "https://i.ibb.co/rbH67YD/gratis-1kqv.png",
+"embed": "true"
+},
+{
+"name": "Es PoSiBlE QuE NeCeSiTeS AcTiVaR Un VpN", 
+"image": "https://i.ibb.co/JdMXbn5/header-tile-1-1-1-1-2x-1.png",
+"info": "AcTiVa UnA VpN"
+},
+{
+"name": "TeN AcTuAlIzAdO Tu PeRfIl Si QuIeReS UnIrTe *PiNcHa AqUi*",
+"text-align": "center;",
+"image": "https://i.ibb.co/JBnyBgk/free-telegram-2690369-2232872.webp",
+"info": "ÚnEte Al GrOuP De XuPeRlIsT PaRa No PeRdErTe NaDa",
+"url": "https://t.me/Group_Xuperlists",
+"embed": "true"
+},
+{
+"name": "EnTrA A La LiStA",
+"text-align": "center;",
+"image": "https://i.postimg.cc/BndMLrG9/IMG-20241111-191943-016-removebg-preview.png",
+"info": "GROUP XUPERLIST XPORTS",
+"url": "https://group-xuperlist-xports.netlify.app/00.XPORTS.w3u",
+"import": false,
+"embed": ""
+},
 {
 "name": "AgEnDa XpOrTS",
 "text-align": "center;",
