@@ -8,6 +8,24 @@
 "groups":
 [ 
 {
+"name": "ENTRA",
+"text-align": "center;",
+"image": "https://i.postimg.cc/BndMLrG9/IMG-20241111-191943-016-removebg-preview.png",
+"info": "GROUP XUPERLIST XPORTS",
+"url": "https://group-xuperlist-xports.netlify.app/00.XPORTS.w3u",
+"import": false,
+"embed": ""
+}
+]
+},
+{
+"name": "GROUP XUPERLIST XPORTS",
+"author": "By GROUP XUPERLISTS",
+"image": "https://i.postimg.cc/Y9YR3pvx/Polish-20250228-160824355.png",
+"info":"",
+"stations":
+[
+{
 "name": "<< RECUERDA QUE ESTO ES GRATIS QUE NO TE COBREN >>",
 "text-align": "center;",
 "info": "¡Que no te cobren!",
@@ -28,24 +46,6 @@ RECUERDA SINCRONIZAR LA LISTA CADA VEZ QUE ACCEDAS",
 "info": "PULSA AQUÍ",
 "url": "Group_Xuperlists",
 "embed": "true"
-}
-]
-},
-{
-"name": "GROUP XUPERLIST XPORTS",
-"author": "By GROUP XUPERLISTS",
-"image": "https://i.postimg.cc/Y9YR3pvx/Polish-20250228-160824355.png",
-"info":"",
-"stations":
-[ 
-{
-"name": "ENTRA",
-"text-align": "center;",
-"image": "https://i.postimg.cc/BndMLrG9/IMG-20241111-191943-016-removebg-preview.png",
-"info": "GROUP XUPERLIST XPORTS",
-"url": "https://group-xuperlist-xports.netlify.app/00.XPORTS.w3u",
-"import": false,
-"embed": ""
 }
 ]
 }
