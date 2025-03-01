@@ -1,7 +1,12 @@
-{"name": "La Liga","image": "https://i.postimg.cc/VsF4nL28/La-Liga.png","stations": [
-{"name": "La Liga (Horarios)","info": "futbolhoy.es","image": "https://i.postimg.cc/tgB13nxF/La-Liga-Horarios.png","online":"true","url":"https://www.futbolhoy.es/competiciones/laliga","embed": "true"},
-{"name": "La Liga (Horarios Canales Latinos)","info": "futbolenvivoargentina.com","image": "https://i.postimg.cc/3xHtyNmK/La-Liga-Canales-Latino-Horarios.png","online":"true","url":"https://www.futbolenvivoargentina.com/competicion/la-liga","embed": "true"},
-{"name": "LaLiga Tv / Dazn LaLiga","info": "streamingon.org","image": "https://i.postimg.cc/nr8tQ8cX/La-Liga-Tv-Dazn-La-Liga.png","online":"true","referer": "https://streamingon.org/","url":"https://streamingon.org/embed/hd-1.php","isHost": "true"},
+{
+"name": "LaLiga Tv / Dazn LaLiga",
+"info": "streamingon.org",
+"image": "https://i.postimg.cc/nr8tQ8cX/La-Liga-Tv-Dazn-La-Liga.png",
+"online":"true",
+"referer": "https://streamingon.org/",
+"url":"https://streamingon.org/embed/hd-1.php",
+"isHost": "true"
+},
 {"name": "LaLiga Tv / Dazn LaLiga","info": "v1.sportsonline.ps","image": "https://i.postimg.cc/nr8tQ8cX/La-Liga-Tv-Dazn-La-Liga.png","online":"true","referer": "https://v1.sportsonline.ps/","url":"https://v1.sportsonline.ps/channels/hd/hd6.php","isHost": "true"},
 {"name": "LaLiga Tv / Dazn LaLiga","info": "elixx.xyz","image": "https://i.postimg.cc/nr8tQ8cX/La-Liga-Tv-Dazn-La-Liga.png","online":"true","referer": "https://www.elixx.xyz/","url":"https://freckledine.net/embed/x2qidlx7","isHost": "true"},
 {"name": "Sky Sports LaLiga","info": "la12hd.com","image": "https://i.postimg.cc/9F8LhgZN/Sky-Sports-La-Liga-Logo.png","online":"true","referer": "https://la12hd.com/","url":"https://la12hd.com/vivo/canal.php?stream=sky_sports_laliga","isHost": "true"},
