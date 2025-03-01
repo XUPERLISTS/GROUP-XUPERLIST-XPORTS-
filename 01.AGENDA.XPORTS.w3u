@@ -43,6 +43,54 @@
 "online":"true",
 "url":"https://www.ole.com.ar/wg-agenda-deportiva/",
 "embed": "true"
+},
+{
+"name": "La Liga (Horarios)",
+"info": "futbolhoy.es",
+"image": "https://i.postimg.cc/tgB13nxF/La-Liga-Horarios.png",
+"online":"true",
+"url":"https://www.futbolhoy.es/competiciones/laliga",
+"embed": "true"
+},
+{
+"name": "La Liga (Horarios Canales Latinos)",
+"info": "futbolenvivoargentina.com",
+"image": "https://i.postimg.cc/3xHtyNmK/La-Liga-Canales-Latino-Horarios.png",
+"online":"true",
+"url":"https://www.futbolenvivoargentina.com/competicion/la-liga",
+"embed": "true"
+},
+{
+"name": "Champions League (Horarios)",
+"info": "futbolhoy.es",
+"image": "https://i.postimg.cc/J47nRcdm/Champions-Leaguea-Horarios.png",
+"online":"true",
+"url":"https://www.futbolhoy.es/competiciones/champions-league",
+"embed": "true"
+},
+{
+"name": "Champions League  (Horarios Canales Latinos)",
+"info": "futbolenvivoargentina.com",
+"image": "https://i.postimg.cc/8PC12kjz/Champions-Leaguea-Canales-Latinos-Horarios.png",
+"online":"true",
+"url":"https://www.futbolenvivoargentina.com/competicion/liga-campeones",
+"embed": "true"
+},
+{
+"name": "Liga ACB (Horarios)",
+"info": "baloncestohoy.es",
+"image": "https://i.postimg.cc/wMywNswB/Liga-ACB-Horarios.png",
+"online":"true",
+"url":"https://www.baloncestohoy.es/competiciones/liga-endesa",
+"embed": "true"
+},
+{
+"name": "Euroliga (Horarios)",
+"info": "baloncestohoy.es",
+"image": "https://i.postimg.cc/vZsdQQmn/Euroliga-Horarios.png",
+"online":"true",
+"url":"https://www.baloncestohoy.es/competiciones/euroliga",
+"embed": "true"
 }
 ]
 }
