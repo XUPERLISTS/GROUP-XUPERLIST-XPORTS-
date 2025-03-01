@@ -1,0 +1,24 @@
+{
+"name": "GROUP XUPERLIST XPORTS",
+"author": "By XUPERLISTS",
+"image": "https://i.postimg.cc/Y9YR3pvx/Polish-20250228-160824355.png",
+"url": "https://group-xuperlist-xports.netlify.app/001.TELEGRAM.XPORTS.w3u",
+"telegram": "Group_Xuperlists",
+"info":"",
+"stations":
+	[
+		{ 
+		"name": "🄴🄽🅃🅁🄰 🄰🅀🅄🄸 🅈 Ú🄽🄴🅃🄴 🄰🄻 🄶🅁🅄🄿🄾",
+		"image": "https://i.postimg.cc/K8HdyCqB/281725-multimedia-computadora-internet-telegram.gif",
+		"url": "https://t.me/Group_Xuperlists",
+		"embed": "true"
+		},
+                {
+                "name": "El Contenido Es Libre y Recopilado De Internet",
+                "image":"https://s3.ppllstatics.com/rc/www/multimedia/2023/04/11/cuantas-horas-pasamos-internet-kfDH-U20039963275RQB-1200x840@RC.jpg",
+                "url": "",
+                "embed": "true"
+                }
+              
+	]
+}
