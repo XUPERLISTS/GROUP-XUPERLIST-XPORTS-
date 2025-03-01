@@ -5,10 +5,15 @@
 "url": "https://raw.githubusercontent.com/XUPERLISTS/GROUP-XUPERLIST-XPORTS-/main/01.AGENDA.XPORTS.w3u ",
 "telegram": "Group_Xuperlists",
 "info":"",
-"stations":
-[ 
+"groups":
+[
 {
-"name": "Agenda Futbol",
+"name": "AgaEnDa XpOrTs",
+"image": "https://i.postimg.cc/qM68pwCS/Horarios-Deportivos.png",
+"stations": 
+[
+{
+"name": "FuTbOl",
 "info": "futbolhoy.es",
 "image": "https://i.postimg.cc/KYLbCtp0/Futbol-Horarios.png",
 "online":"true",
@@ -16,7 +21,7 @@
 "embed": "true"
 },
 {
-"name": "Copa del Rey (Horarios)",
+"name": "CoPa DeL ReY",
 "info": "futbolhoy.es",
 "image": "https://i.postimg.cc/85DGtN2D/Copa-Rey-Futbol-Horarios.png",
 "online":"true",
@@ -24,7 +29,7 @@
 "embed": "true"
 },
 {
-"name": "Agenda Baloncesto",
+"name": "BaLoNcEsTo",
 "info": "baloncestohoy.es",
 "image": "https://i.postimg.cc/hvf50Ytc/Baloncesto-Horarios.png",
 "online":"true",
@@ -32,7 +37,7 @@
 "embed": "true"
 },
 {
-"name": "Agenda Multideporte (Arg)",
+"name": "MuLtIdEPoRtE-ArGE",
 "info": "ole.com.ar",
 "image": "https://i.postimg.cc/G2NZ6RNH/Multideporte-Arg-Horarios.png",
 "online":"true",
