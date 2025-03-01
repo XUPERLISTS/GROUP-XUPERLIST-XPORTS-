@@ -1,1 +1,261 @@
-
+{
+"name": "TAZN XPORTS",
+"author": "By XUPERLISTS",
+"image": "https://i.postimg.cc/Y9YR3pvx/Polish-20250228-160824355.png",
+"url": "https://group-xuperlist-xports.netlify.app/00.XPORTS.w3u",
+"telegram": "Group_Xuperlists",
+"info":"",
+"stations":
+[ 
+{
+"name": "Dazn 1",
+"info": "streamtp3.com",
+"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://streamtp3.com/",
+"url":"https://streamtp3.com/global1.php?stream=dazn1",
+"isHost": "true"
+},
+{
+"name": "Dazn 1",
+"info": "tarjetarojaenvivo.lat",
+"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url":"https://eyespeeled.click/player/77f6138787b9b9a6-bac082f7bb22f88980a9829fdd33cd25",
+"isHost": "true"
+},
+{
+"name": "Dazn 1",
+"info": "tarjetarojaenvivo.lat",
+"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url":"https://hoca4.com/footy.php?player=desktop&live=ufeed56",
+"isHost": "true"
+},
+{
+"name": "Dazn 1",
+"info": "tarjetarojaenvivo.lat",
+"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url":"https://fuelcareer.net/embed/pz65xpc",
+"isHost": "true"
+},
+{
+"name": "Dazn 1",
+"info": "tarjetarojaenvivo.lat",
+"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url":"https://laceaccept.net/embed/ekm9z79niibzy",
+"isHost": "true"
+},
+{
+"name": "Dazn 1",
+"info": "zekonew.iosplayer.ru",
+"image": "https://i.ibb.co/BNcPbdV/1-0-1-76-A4-416-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://cookiewebplay.xyz/",
+"url":"https://zekonew.iosplayer.ru/zeko/premium445/mono.m3u8",
+"isHost": "true"
+},
+{
+"name": "Dazn 2",
+"info": "abbasport.site",
+"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://abbasport.site/",
+"url":"https://abbasport.site/dazn2.php",
+"isHost": "true"
+},
+{
+"name": "Dazn 2",
+"info": "streamtp3.com",
+"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://streamtp3.com/",
+"url":"https://streamtp3.com/global1.php?stream=dazn2",
+"isHost": "true"
+},
+{
+"name": "Dazn 2",
+"info": "tarjetarojaenvivo.lat",
+"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url":"https://eyespeeled.click/player/2b5c32f183fcea1c-36a6dab0f4b4b11694ec21efc6a6643a",
+"isHost": "true"
+},
+{
+"name": "Dazn 2",
+"info": "tarjetarojaenvivo.lat",
+"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url":"https://hoca4.com/footy.php?player=desktop&live=ufeed57",
+"isHost": "true"
+},
+{
+"name": "Dazn 2",
+"info": "tarjetarojaenvivo.lat",
+"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url":"https://fuelcareer.net/embed/yh3o7p7",
+"isHost": "true"
+},
+{
+"name": "Dazn 2",
+"info": "tarjetarojaenvivo.lat",
+"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url":"https://laceaccept.net/embed/lm0q2r",
+"isHost": "true"
+},
+{
+"name": "Dazn 2",
+"info": "zekonew.iosplayer.ru",
+"image": "https://i.ibb.co/C7RpvcF/1-0-1-772-A-416-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://cookiewebplay.xyz/",
+"url":"https://zekonew.iosplayer.ru/zeko/premium446/mono.m3u8",
+"isHost": "true"
+},
+{
+"name": "Dazn 3",
+"info": "abbasport.site",
+"image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://abbasport.site/",
+"url":"https://abbasport.site/dazn3.php",
+"isHost": "true"
+},
+{
+"name": "Dazn 3",
+"info": "streamtp3.com",
+"image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://streamtp3.com/",
+"url":"https://streamtp3.com/global1.php?stream=dazn3",
+"isHost": "true"
+},
+{
+"name": "Dazn 3",
+"info": "zekonew.iosplayer.ru",
+"image": "https://i.ibb.co/3NQ78Sx/1-0-1-77-BE-40-A-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://cookiewebplay.xyz/",
+"url":"https://zekonew.iosplayer.ru/zeko/premium447/mono.m3u8",
+"isHost": "true"
+},
+{
+"name": "Dazn 4",
+"info": "abbasport.site",
+"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://abbasport.site/",
+"url":"https://abbasport.site/dazn4.php",
+"isHost": "true"
+},
+{
+"name": "Dazn 4",
+"info": "streamtp3.com",
+"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://streamtp3.com/",
+"url":"https://streamtp3.com/global1.php?stream=dazn4",
+"isHost": "true"
+},
+{
+"name": "Dazn 4",
+"info": "zekonew.iosplayer.ru",
+"image": "https://i.ibb.co/2Mm09qs/1-0-1-77-C0-40-A-1-C00000-0-0-0.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://cookiewebplay.xyz/",
+"url":"https://zekonew.iosplayer.ru/zeko/premium448/mono.m3u8",
+"isHost": "true"
+},
+{
+"name": "Dazn F1",
+"info": "abbasport.site",
+"image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://abbasport.site/",
+"url":"https://abbasport.site/daznf1.php",
+"isHost": "true"
+},
+{
+"name": "Dazn F1",
+"info": "tarjetarojaenvivo.lat",
+"image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url":"https://eyespeeled.click/player/6192aa5c017f1473-3a65de6a443b0f1dfe2552281eee5df9",
+"isHost": "true"
+},
+{
+"name": "Dazn F1",
+"info": "tarjetarojaenvivo.lat",
+"image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url":"https://hoca4.com/footy.php?player=desktop&live=ufeed60",
+"isHost": "true"
+},
+{
+"name": "Dazn F1",
+"info": "tarjetarojaenvivo.lat",
+"image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url":"https://fuelcareer.net/embed/2twhx",
+"isHost": "true"
+},
+{
+"name": "Dazn F1",
+"info": "tarjetarojaenvivo.lat",
+"image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://tarjetarojaenvivo.lat/",
+"url":"https://laceaccept.net/embed/6na79kddf",
+"isHost": "true"
+},
+{
+"name": "Dazn F1",
+"info": "zekonew.iosplayer.ru",
+"image": "https://i.postimg.cc/j2Z3Y01j/DAZN-F1-Logo.png",
+"online":"true",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
+"referer": "https://cookiewebplay.xyz/",
+"url":"https://zekonew.iosplayer.ru/zeko/premium537/mono.m3u8",
+"isHost": "true"
+}
+]
+}
