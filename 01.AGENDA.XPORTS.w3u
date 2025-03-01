@@ -1,1 +1,43 @@
-
+{
+"name": "GROUP XUPERLIST XPORTS",
+"author": "By XUPERLISTS",
+"image": "https://i.postimg.cc/Y9YR3pvx/Polish-20250228-160824355.png",
+"url": "https://group-xuperlist-xports.netlify.app/00.XPORTS.w3u",
+"telegram": "Group_Xuperlists",
+"info":"",
+"groups":
+[ 
+{
+"name": "Agenda Futbol",
+"info": "futbolhoy.es",
+"image": "https://i.postimg.cc/KYLbCtp0/Futbol-Horarios.png",
+"online":"true",
+"url":"https://www.futbolhoy.es/",
+"embed": "true"
+},
+{
+"name": "Copa del Rey (Horarios)",
+"info": "futbolhoy.es",
+"image": "https://i.postimg.cc/85DGtN2D/Copa-Rey-Futbol-Horarios.png",
+"online":"true",
+"url":"https://www.futbolhoy.es/competiciones/copa-del-rey",
+"embed": "true"
+},
+{
+"name": "Agenda Baloncesto",
+"info": "baloncestohoy.es",
+"image": "https://i.postimg.cc/hvf50Ytc/Baloncesto-Horarios.png",
+"online":"true",
+"url":"https://www.baloncestohoy.es/",
+"embed": "true"
+},
+{
+"name": "Agenda Multideporte (Arg)",
+"info": "ole.com.ar",
+"image": "https://i.postimg.cc/G2NZ6RNH/Multideporte-Arg-Horarios.png",
+"online":"true",
+"url":"https://www.ole.com.ar/wg-agenda-deportiva/",
+"embed": "true"
+}
+]
+}
