@@ -1,4 +1,12 @@
-
+{
+"name": "ACBEUROLIG XPORTS",
+"author": "By XUPERLISTS",
+"image": "https://i.postimg.cc/Y9YR3pvx/Polish-20250228-160824355.png",
+"url": "https://raw.githubusercontent.com/XUPERLISTS/GROUP-XUPERLIST-XPORTS-/main/05.ACBEUROLIG.XPORTS.w3u",
+"telegram": "Group_Xuperlists",
+"info":"",
+"stations":
+[
 {"name": "Movistar+", "info": "deportestvhdplus1.com", "image": "https://i.postimg.cc/Gtd7zdzm/movistar.png", "online": "true", "referer": "https://deportestvhdplus1.com/", "url": "https://zanex.lat/st3.php?channel=mplus", "isHost": "true"},
 {"name": "Movistar+", "info": "zekonew.iosplayer.ru", "image": "https://i.postimg.cc/Gtd7zdzm/movistar.png", "online": "true", "url": "https://zekonew.iosplayer.ru/zeko/premium437/mono.m3u8"},
 {"name": "Movistar Deportes","info": "abbasport.site","image": "https://i.postimg.cc/HxZp22D8/movistar-deportes-Logo.png","online":"true","referer": "https://abbasport.site/","url":"https://abbasport.site/movistar1.php","isHost": "true"},
