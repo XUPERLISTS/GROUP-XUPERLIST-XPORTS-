@@ -7,7 +7,11 @@
 "info":"",
 "stations":
 [
-
+{
+"name": "Es PoSiBlE QuE NeCeSiTeS AcTiVaR Un VpN", 
+"image": "https://i.ibb.co/JdMXbn5/header-tile-1-1-1-1-2x-1.png",
+"info": "Si No FuNcIoNa AcTiVa UnA VpN"
+},
 {"name": "Liga de Campeones","info": "bedsport.live","image": "https://i.postimg.cc/5tWWqrXR/Liga-de-Campeones-Logo.png","online":"true","referer": "https://bedsport.live/","url":"https://generalpilli.net/embed/av8q3fwxcb","isHost": "true"},
 {"name": "Liga de Campeones","info": "mihd.tv","image": "https://i.postimg.cc/5tWWqrXR/Liga-de-Campeones-Logo.png","online":"true","referer": "https://mihd.tv/","url":"https://mihd.tv/movistar-liga-de-campeones-en-vivo-por-internet.html","isHost": "true"},
 {"name": "Liga de Campeones","info": "streamingon.org","image": "https://i.postimg.cc/5tWWqrXR/Liga-de-Campeones-Logo.png","online":"true","referer": "https://streamingon.org/","url":"https://streamingon.org/embed/hd-1.php","isHost": "true"},
