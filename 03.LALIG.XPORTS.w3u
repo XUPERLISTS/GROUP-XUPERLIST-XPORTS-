@@ -8,6 +8,11 @@
 "stations":
 [
 {
+"name": "Es PoSiBlE QuE NeCeSiTeS AcTiVaR Un VpN", 
+"image": "https://i.ibb.co/JdMXbn5/header-tile-1-1-1-1-2x-1.png",
+"info": "Si No FuNcIoNa AcTiVa UnA VpN"
+},
+{
 "name": "LaLiga Tv / Dazn LaLiga",
 "info": "streamingon.org",
 "image": "https://i.postimg.cc/nr8tQ8cX/La-Liga-Tv-Dazn-La-Liga.png",
