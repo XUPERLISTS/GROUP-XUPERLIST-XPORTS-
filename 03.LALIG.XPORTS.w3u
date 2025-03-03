@@ -14,7 +14,7 @@
 },
 {
 "name": "LaLiga Tv / Dazn LaLiga",
-"info": "streamingon 1.org",
+"info": "streamingon.org",
 "info": "",
 "image": "https://i.postimg.cc/nr8tQ8cX/La-Liga-Tv-Dazn-La-Liga.png",
 "online":"true",
@@ -26,6 +26,7 @@
 {
 "name": "LaLiga Tv / Dazn LaLiga",
 "info": "v1.sportsonline.ps",
+"info": "",
 "image": "https://i.postimg.cc/nr8tQ8cX/La-Liga-Tv-Dazn-La-Liga.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -36,6 +37,7 @@
 {
 "name": "LaLiga Tv / Dazn LaLiga",
 "info": "elixx.xyz",
+"info": "",
 "image": "https://i.postimg.cc/nr8tQ8cX/La-Liga-Tv-Dazn-La-Liga.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
