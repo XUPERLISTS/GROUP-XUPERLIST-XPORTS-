@@ -7,20 +7,136 @@
 "info":"",
 "stations":
 [
-{"name": "PÃ¡gina Web Liga ACB","info": "livetv.sx","image": "https://i.postimg.cc/hGNDKF9Y/P-gina-Web-Liga-ACB.png","online":"true","url":"https://livetv.sx/es/competitions/215/","embed": "true"},
-{"name": "PÃ¡gina Web Euroliga","info": "livetv.sx","image": "https://i.postimg.cc/ry1V2Pzh/P-gina-Web-Euroliga.png","online":"true","url":"https://livetv.sx/es/competitions/41/","embed": "true"},
-{"name": "PÃ¡gina Web Champions League","info": "livetv.sx","image": "https://i.postimg.cc/Hs0V3LQk/P-gina-Web-Champions-League.png","online":"true","url":"https://livetv.sx/es/competitions/7/","embed": "true"},
-{"name": "PÃ¡gina Web LaLiga","info": "livetv.sx","image": "https://i.postimg.cc/FRTD23wN/Pagina-Web-La-Liga.png","online":"true","url":"https://livetv.sx/es/competitions/15/","embed": "true"},
-{"name": "livetv.sx","info": "Web Multideportes","image": "https://i.postimg.cc/tRxKDJwt/Live-Tv.png","online":"true","url":"https://livetv.sx/es/allupcoming/","embed": "true"},
-{"name": "streamtp1.com","info": "Web Multideportes","image": "https://i.postimg.cc/g01M6qz9/streamtp1-com.png","online":"true","url":"https://streamtp1.com/","embed": "true"},
-{"name": "flipax.es","info": "Web Multideportes","image": "https://i.postimg.cc/YC98nyjK/Flipax.png","online":"true","url":"https://www.flipax.es/","embed": "true"},
-{"name": "geny-4k.blogspot.com","info": "Web Multideportes","image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sTG0JbV5kGfaOhQBlvaqZo8atBnAZYYvMurLpkUJsWHY6g-hmBxMbES0TT3u5DazhqtTkML8LxZ7tuMiSHhMA7NC1glyOuQWsUEJl_utymGmB0peih17m6fTdBXw","online":"true","url":"https://geny-4k.blogspot.com/2024/07/canales-tv.html","embed": "true"},
-{"name": "lefoot.ru","info": "Web Multideportes","image": "https://lefoot.ru/logo.png","online":"true","url":"https://lefoot.ru/","embed": "true"},
-{"name": "zzcointv.xyz","info": "Web Multideportes","online":"true","url":"https://zzcointv.xyz/","embed": "true"},
-{"name": "sportp2p.com","info": "Web Multideportes","image": "https://www.sportp2p.com/images/logo.png","online":"true","url":"https://www.sportp2p.com/live-sport/","embed": "true"},
-{"name": "telerium.run","info": "Web Multideportes","image": "https://www.telerium.run/teleriumrun.png","online":"true","url":"https://www.telerium.run/","embed": "true"},
-{"name": "deportestvhd.com","info": "Web Multideportes","image": "https://zanex.lat/red/dtvhdapp2025.png","online":"true","url":"https://deportestvhd.com/","embed": "true"},
-{"name": "la12hd.com","info": "Web Multideportes","online":"true","url":"https://la12hd.com/","embed": "true"},
-{"name": "mihd.tv","info": "Web Multideportes","image": "https://mihd.tv/imge/mihd.png","online":"true","url":"https://mihd.tv/","embed": "true"}
-]}
-]}
+{
+"name": "Pagina Web Liga ACB",
+"info": "Web Multideportes",
+"image": "https://i.postimg.cc/63yHNpck/logo3-19-222611.png",
+"online":"true",
+"url":"https://livetv.sx/es/competitions/215/",
+"embed": "true"
+},
+{
+"name": "Pagina Web Euroliga",
+"info": "Web Multideportes",
+"image": "https://i.postimg.cc/4388M96v/logo3-19-222525.png",
+"online":"true",
+"url":"https://livetv.sx/es/competitions/41/",
+"embed": "true"
+},
+{
+"name": "Pagina Web Champions League",
+"info": "Web Multideportes",
+"image": "https://i.postimg.cc/3xYnxB9C/logo3-19-222732.png",
+"online":"true",
+"url":"https://livetv.sx/es/competitions/7/",
+"embed": "true"
+},
+{
+"name": "Pagina Web LaLiga",
+"info": "Web Multideportes",
+"image": "https://i.postimg.cc/HsCt6zGD/logo3-19-222644.png",
+"online":"true",
+"url":"https://livetv.sx/es/competitions/15/",
+"embed": "true"
+},
+{
+"name": "Pagina Web livetv",
+"info": "livetv.sx",
+"info": "Web Multideportes",
+"image": "https://i.postimg.cc/tRxKDJwt/Live-Tv.png",
+"online":"true",
+"url":"https://livetv.sx/es/allupcoming/",
+"embed": "true"
+},
+{
+"name": "Pagina Web Multideportes",
+"info": "streamtp1.com",
+"info": "Web Multideportes",
+"image": "https://i.postimg.cc/g01M6qz9/streamtp1-com.png",
+"online":"true",
+"url":"https://streamtp1.com/",
+"embed": "true"
+},
+{
+"name": "Pagina Web Multideportes",
+"info": "flipax.es",
+"info": "Web Multideportes",
+"image": "https://i.postimg.cc/YC98nyjK/Flipax.png",
+"online":"true",
+"url":"https://www.flipax.es/",
+"embed": "true"
+},
+{
+"name": "Pagina Web Multideportes",
+"info": "geny-4k.blogspot.com",
+"info": "Web Multideportes",
+"image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_sTG0JbV5kGfaOhQBlvaqZo8atBnAZYYvMurLpkUJsWHY6g-hmBxMbES0TT3u5DazhqtTkML8LxZ7tuMiSHhMA7NC1glyOuQWsUEJl_utymGmB0peih17m6fTdBXw",
+"online":"true",
+"url":"https://geny-4k.blogspot.com/2024/07/canales-tv.html",
+"embed": "true"
+},
+{
+"name": "Pagina Web Multideportes",
+"info": "lefoot.ru",
+"info": "Web Multideportes",
+"image": "https://lefoot.ru/logo.png",
+"online":"true",
+"url":"https://lefoot.ru/",
+"embed": "true"
+},
+{
+"name": "Pagina Web Multideportes",
+"info": "zzcointv.xyz",
+"info": "Web Multideportes",
+"online":"true",
+"url":"https://zzcointv.xyz/",
+"embed": "true"
+},
+{
+"name": "Pagina Web Multideportes",
+"info": "sportp2p.com",
+"info": "Web Multideportes",
+"image": "https://www.sportp2p.com/images/logo.png",
+"online":"true",
+"url":"https://www.sportp2p.com/live-sport/",
+"embed": "true"
+},
+{
+"name": "Pagina Web Multideportes",
+"info": "telerium.run",
+"info": "Web Multideportes",
+"image": "https://www.telerium.run/teleriumrun.png",
+"online":"true",
+"url":"https://www.telerium.run/",
+"embed": "true"
+},
+{
+"name": "Pagina Web Multideportes",
+"info": "deportestvhd.com",
+"info": "Web Multideportes",
+"image": "https://zanex.lat/red/dtvhdapp2025.png",
+"online":"true",
+"url":"https://deportestvhd.com/",
+"embed": "true"
+},
+{
+"name": "Pagina Web Multideportes",
+"info": "la12hd.com",
+"info": "Web Multideportes",
+"online":"true",
+"url":"https://la12hd.com/",
+"embed": "true"
+},
+{
+"name": "Pagina Web Multideportes",
+"info": "mihd.tv",
+"info": "Web Multideportes",
+"image": "https://mihd.tv/imge/mihd.png",
+"online":"true",
+"url":"https://mihd.tv/",
+"embed": "true"
+}
+]
+}
+]
+}
