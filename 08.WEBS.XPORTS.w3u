@@ -8,6 +8,11 @@
 "stations":
 [
 {
+"name": "Es PoSiBlE QuE NeCeSiTeS AcTiVaR Un VpN", 
+"image": "https://i.postimg.cc/s2K8r8rh/logo3-19-222823.png",
+"info": "Si No FuNcIoNa AcTiVa UnA VpN"
+},
+{
 "name": "Pagina Web Liga ACB",
 "info": "Web Multideportes",
 "image": "https://i.postimg.cc/63yHNpck/logo3-19-222611.png",
