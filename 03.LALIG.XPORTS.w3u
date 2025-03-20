@@ -14,8 +14,8 @@
 },
 {
 "name": "LaLiga Tv / Dazn LaLiga",
-"info": "",
 "info": "streamingon.org",
+"info": "",
 "image": "https://i.postimg.cc/nr8tQ8cX/La-Liga-Tv-Dazn-La-Liga.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -48,6 +48,7 @@
 {
 "name": "Sky Sports LaLiga",
 "info": "la12hd.com",
+"info": "",
 "image": "https://i.postimg.cc/9F8LhgZN/Sky-Sports-La-Liga-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -58,6 +59,7 @@
 {
 "name": "Sky Sports LaLiga",
 "info": "mihd.tv",
+"info": "",
 "image": "https://i.postimg.cc/9F8LhgZN/Sky-Sports-La-Liga-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -68,6 +70,7 @@
 {
 "name": "Espn Deportes",
 "info": "abbasport.site",
+"info": "",
 "image": "https://i.postimg.cc/4dPchzfK/Espn-deportes.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -78,6 +81,7 @@
 {
 "name": "Espn Deportes",
 "info": "bedsport.live",
+"info": "",
 "image": "https://i.postimg.cc/4dPchzfK/Espn-deportes.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -87,6 +91,7 @@
 },
 {"name": "Espn Deportes",
 "info": "deportestvhdplus1.com",
+"info": "",
 "image": "https://i.postimg.cc/4dPchzfK/Espn-deportes.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -96,6 +101,7 @@
 },
 {"name": "Espn Deportes",
 "info": "la12hd.com",
+"info": "",
 "image": "https://i.postimg.cc/4dPchzfK/Espn-deportes.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -106,6 +112,7 @@
 {
 "name": "Espn Deportes",
 "info": "streamtp3.com",
+"info": "",
 "image": "https://i.postimg.cc/4dPchzfK/Espn-deportes.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -116,6 +123,7 @@
 {
 "name": "Espn Deportes",
 "info": "tarjetarojaenvivo.lat",
+"info": "",
 "image": "https://i.postimg.cc/4dPchzfK/Espn-deportes.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -126,6 +134,7 @@
 {
 "name": "Espn Deportes",
 "info": "tarjetarojaenvivo.lat",
+"info": "",
 "image": "https://i.postimg.cc/4dPchzfK/Espn-deportes.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -136,6 +145,7 @@
 {
 "name": "Espn Deportes",
 "info": "tarjetarojaenvivo.lat",
+"info": "",
 "image": "https://i.postimg.cc/4dPchzfK/Espn-deportes.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -146,6 +156,7 @@
 {
 "name": "Espn Deportes",
 "info": "tarjetarojaenvivo.lat",
+"info": "",
 "image": "https://i.postimg.cc/4dPchzfK/Espn-deportes.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -156,6 +167,7 @@
 {
 "name": "Espn Deportes",
 "info": "topembed.pw",
+"info": "",
 "image": "https://i.postimg.cc/4dPchzfK/Espn-deportes.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -166,6 +178,7 @@
 {
 "name": "Espn Deportes",
 "info": "zekonew.iosplayer.ru",
+"info": "",
 "image": "https://i.postimg.cc/4dPchzfK/Espn-deportes.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -176,6 +189,7 @@
 {
 "name": "LaLiga Tv",
 "info": "deportestvhdplus1.com",
+"info": "",
 "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -186,6 +200,7 @@
 {
 "name": "LaLiga Tv",
 "info": "la12hd.com",
+"info": "",
 "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -196,6 +211,7 @@
 {
 "name": "LaLiga Tv",
 "info": "mihd.tv",
+"info": "",
 "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -206,6 +222,7 @@
 {
 "name": "LaLiga TV",
 "info": "streamtp3.com",
+"info": "",
 "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -216,6 +233,7 @@
 {
 "name": "LaLiga Tv",
 "info": "tarjetarojaenvivo.lat",
+"info": "",
 "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -226,6 +244,7 @@
 {
 "name": "LaLiga Tv",
 "info": "tarjetarojaenvivo.lat",
+"info": "",
 "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -236,6 +255,7 @@
 {
 "name": "LaLiga Tv",
 "info": "tarjetarojaenvivo.lat",
+"info": "",
 "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -246,6 +266,7 @@
 {
 "name": "LaLiga Tv",
 "info": "tarjetarojaenvivo.lat",
+"info": "",
 "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -256,6 +277,7 @@
 {
 "name": "LaLiga Tv",
 "info": "zekonew.iosplayer.ru",
+"info": "",
 "image": "https://i.postimg.cc/0Q5CtMNJ/La-Liga-TV-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -265,6 +287,7 @@
 {
 "name": "Dazn LaLiga",
 "info": "abbasport.site",
+"info": "",
 "image": "https://i.postimg.cc/9M5NptRX/DAZN-La-Liga-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -275,6 +298,7 @@
 {
 "name": "Dazn LaLiga",
 "info": "streamtp3.com",
+"info": "",
 "image": "https://i.postimg.cc/9M5NptRX/DAZN-La-Liga-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -285,6 +309,7 @@
 {
 "name": "Dazn LaLiga",
 "info": "tarjetarojaenvivo.lat",
+"info": "",
 "image": "https://i.postimg.cc/9M5NptRX/DAZN-La-Liga-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -295,6 +320,7 @@
 {
 "name": "Dazn LaLiga",
 "info": "tarjetarojaenvivo.lat",
+"info": "",
 "image": "https://i.postimg.cc/9M5NptRX/DAZN-La-Liga-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -305,6 +331,7 @@
 {
 "name": "Dazn LaLiga",
 "info": "tarjetarojaenvivo.lat",
+"info": "",
 "image": "https://i.postimg.cc/9M5NptRX/DAZN-La-Liga-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -315,6 +342,7 @@
 {
 "name": "Dazn LaLiga",
 "info": "tarjetarojaenvivo.lat",
+"info": "",
 "image": "https://i.postimg.cc/9M5NptRX/DAZN-La-Liga-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
@@ -325,6 +353,7 @@
 {
 "name": "Dazn LaLiga",
 "info": "zekonew.iosplayer.ru",
+"info": "",
 "image": "https://i.postimg.cc/9M5NptRX/DAZN-La-Liga-Logo.png",
 "online":"true",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8",
