@@ -9,13 +9,13 @@
 [
 {
 "name": "AgEnDa XpOrTs",
-"image": "https://i.postimg.cc/qM68pwCS/Horarios-Deportivos.png",
+"image": "https://i.postimg.cc/13x6hXdq/logo3-20-191522.png",
 "stations": 
 [
 {
-"name": "FuTbOl",
+"name": "FoOtBaLl",
 "info": "¿ DoNDe Lo EcHaN ?",
-"image": "https://i.postimg.cc/KYLbCtp0/Futbol-Horarios.png",
+"image": "https://i.postimg.cc/nrDY8Pv4/logo3-20-191658.png",
 "online":"true",
 "url":"https://www.futbolhoy.es/",
 "embed": "true"
@@ -23,71 +23,71 @@
 {
 "name": "CoPa DeL ReY",
 "info": "¿ DoNDe Lo EcHaN ?",
-"image": "https://i.postimg.cc/85DGtN2D/Copa-Rey-Futbol-Horarios.png",
+"image": "https://i.postimg.cc/1z3GRtG5/logo3-20-19187.png",
 "online":"true",
 "url":"https://www.futbolhoy.es/competiciones/copa-del-rey",
 "embed": "true"
 },
 {
-"name": "BaLoNcEsTo",
+"name": "BaSkEtBaLl",
 "info": "¿ DoNDe Lo EcHaN ?",
-"image": "https://i.postimg.cc/hvf50Ytc/Baloncesto-Horarios.png",
+"image": "https://i.postimg.cc/kGK8Ytmw/logo3-20-191911.png",
 "online":"true",
 "url":"https://www.baloncestohoy.es/",
 "embed": "true"
 },
 {
-"name": "MuLtIdEPoRtE-LaTiN",
+"name": "MuLtIsPoRt-LaTiN",
 "info": "¿ DoNDe Lo EcHaN ?",
-"image": "https://i.postimg.cc/G2NZ6RNH/Multideporte-Arg-Horarios.png",
+"image": "https://i.postimg.cc/rwQ4HkB6/logo3-20-192044.png",
 "online":"true",
 "url":"https://www.ole.com.ar/wg-agenda-deportiva/",
 "embed": "true"
 },
 {
-"name": "LaLiG",
+"name": "La LiGa",
 "info": "¿ DoNDe Lo EcHaN ?",
-"image": "https://i.postimg.cc/tgB13nxF/La-Liga-Horarios.png",
+"image": "https://i.postimg.cc/MTjjXjvx/logo3-20-192313.png",
 "online":"true",
 "url":"https://www.futbolhoy.es/competiciones/laliga",
 "embed": "true"
 },
 {
-"name": "LaLiG-LaTiNs",
+"name": "La LiGa-LaTiNo",
 "info": "¿ DoNDe Lo EcHaN ?",
-"image": "https://i.postimg.cc/3xHtyNmK/La-Liga-Canales-Latino-Horarios.png",
+"image": "https://i.postimg.cc/9QFRZkrL/logo3-20-192452.png",
 "online":"true",
 "url":"https://www.futbolenvivoargentina.com/competicion/la-liga",
 "embed": "true"
 },
 {
-"name": "TxAmPi",
+"name": "ChAmPiOnS LeAgUe",
 "info": "¿ DoNDe Lo EcHaN ?",
-"image": "https://i.postimg.cc/J47nRcdm/Champions-Leaguea-Horarios.png",
+"image": "https://i.postimg.cc/vmnQV7LP/logo3-20-19266.png",
 "online":"true",
 "url":"https://www.futbolhoy.es/competiciones/champions-league",
 "embed": "true"
 },
 {
-"name": "TxAmPi-LaTiNs",
+"name": "ChAmPiOnS LeAgUe-LaTiNo",
 "info": "¿ DoNDe Lo EcHaN ?",
-"image": "https://i.postimg.cc/8PC12kjz/Champions-Leaguea-Canales-Latinos-Horarios.png",
+"image": "https://i.postimg.cc/vHSM220q/logo3-20-19276.png",
 "online":"true",
 "url":"https://www.futbolenvivoargentina.com/competicion/liga-campeones",
 "embed": "true"
 },
 {
-"name": "LiG AcB",
+"name": "LiGa AcB",
 "info": "¿ DoNDe Lo EcHaN ?",
-"image": "https://i.postimg.cc/wMywNswB/Liga-ACB-Horarios.png",
+"image": "https://i.postimg.cc/Gtg0N9x8/logo3-20-19289.png",
 "online":"true",
 "url":"https://www.baloncestohoy.es/competiciones/liga-endesa",
 "embed": "true"
 },
 {
-"name": "EuRoLiG",
+"name": "EuRoLiGa",
 "info": "¿ DoNDe Lo EcHaN ?",
-"image": "https://i.postimg.cc/vZsdQQmn/Euroliga-Horarios.png",
+"image": "https://i.postimg.cc/m2hW9NTQ/logo3-20-19292.png",
 "online":"true",
 "url":"https://www.baloncestohoy.es/competiciones/euroliga",
 "embed": "true"
