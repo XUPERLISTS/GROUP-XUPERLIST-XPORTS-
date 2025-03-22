@@ -22,11 +22,12 @@
 "embed": "true"
 },
 {
-"name": "XUPER ACEX 3",
+"name": "XuPeR AcEX 3",
 "info":"ACEX",
-"image": "https://i.postimg.cc/3Jw9bZvr/logo3-22-121957.png",
+"text-align": "center;",
+"image": "https://i.postimg.cc/SxHhB9Cm/logo3-16-221526.png",
 "url": "https://raw.githubusercontent.com/XUPERLISTS/GROUP-XUPERLIST-XPORTS-/main/13.XUPER.ACEX.w3u",
-"embed": "true"
+"import": false
 }
 ]
 }
