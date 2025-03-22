@@ -140,7 +140,6 @@
 "url": "https://zanex.lat/st3.php?channel=tudnusa",
 "isHost": "true"
 },
-
 {
 "name": "TuDn",
 "info": "bedsport.live",
@@ -195,10 +194,10 @@
 "name": "TuDn",
 "info": "streamtp3.com",
 "info": "",
-"imagen": "https://i.postimg.cc/fLc56zZY/logo3-22-15315.png",
-"online": "true",
+"image": "https://i.postimg.cc/fLc56zZY/logo3-22-15315.png",
+"online":"true",
 "referer": "https://streamtp3.com/",
-"url": "https://streamtp3.com/global1.php?stream=tudn_usa",
+"url":"https://streamtp3.com/global1.php?stream=tudn_usa",
 "isHost": "true"
 },
 {
