@@ -142,46 +142,6 @@
 "online":"true",
 "url":"https://mihd.tv/",
 "embed": "true"
-},
-{
-"name": "PaGiNa WeB MuLtIdEpOrTeS",
-"info": "Kool.to",
-"info": "Web Multideportes",
-"image": "https://i.postimg.cc/G2zHvvyD/logo3-20-12536.png",
-"online":"true",
-"url":"https://kool.to/",
-"embed": "true",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Dezor/1.0.2 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36"
-},
-{
-"name": "PaGiNa WeB MuLtIdEpOrTeS",
-"info": "huhu.to",
-"info": "Web Multideportes",
-"image": "https://i.postimg.cc/G2zHvvyD/logo3-20-12536.png",
-"online":"true",
-"url":"https://huhu.to/",
-"embed": "true",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Dezor/1.0.2 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36"
-},
-{
-"name": "PaGiNa WeB MuLtIdEpOrTeS",
-"info": "Oha.to",
-"info": "Web Multideportes",
-"image": "https://i.postimg.cc/G2zHvvyD/logo3-20-12536.png",
-"online":"true",
-"url":"https://oha.to/",
-"embed": "true",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Dezor/1.0.2 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36"
-},
-{
-"name": "PaGiNa WeB MuLtIdEpOrTeS",
-"info": "Vavoo.to",
-"info": "Web Multideportes",
-"image": "https://i.postimg.cc/G2zHvvyD/logo3-20-12536.png",
-"online":"true",
-"url":"https://vavoo.to/",
-"embed": "true",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Dezor/1.0.2 Chrome/106.0.5249.199 Electron/21.4.0 Safari/537.36"
 }
 ]
 }
